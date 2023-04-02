@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. candidate at <a href='https://mai-lab.net'>Medical Artificial Intelligence (MAI) Lab.</a>, Yonsei University.
 
