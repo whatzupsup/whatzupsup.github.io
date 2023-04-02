@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. candidate at <a href='https://mai-lab.net'>Medical Artificial Intelligence Lab.</a>, Yonsei University.
+subtitle: Ph.D. candidate at <a href='https://mai-lab.net'>Medical Artificial Intelligence (MAI) Lab.</a>, Yonsei University.
 
 profile:
   align: right
@@ -22,12 +22,13 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi, I am a Ph.D. candidate at <a href='https://mai-lab.net'>Medical Artificial Intelligence Lab.</a>, Yonsei University. My research interests include:
+Hi, I am a Ph.D. candidate at <a href='https://mai-lab.net'>MAI-Lab.</a>, School of Electrical and Electronic Engineering, Yonsei University. My research interests include computer vision and medical artificial intelligence, particularly:
 * Inverse Problems / Undersampled MRI Reconstruction
 * Unsupervised Domain Adaptation / Cross-Modality Segmentation 
-* Deep Learning-based Medical Image Analysis (Classification, Segmentation, and Interpretation)
+* Radiological Analysis / DL-based Medical Image Classification, Segmentation, and Interpretation
 
-and also broader areas of computer vision. \
+but not limited to. \
 My expected graduation date is February, 2024. \
-For inquiries, please contact :mailbox: whatzupsup@yonsei.ac.kr
+For inquiries, please contact :mailbox: whatzupsup@yonsei.ac.kr \
+Link to my google scholar page is provided at the bottom of this page. 
  
