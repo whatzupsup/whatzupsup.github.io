@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:page_facing_up: A paper titled “Deep Learning Referral Suggestion and Tumour Discrimination using Explainable Artificial Intelligence applied to Multiparametric MRI” was accepted to <i>European Radiology</i>  (JCR 2021 IF=7.034).
+:page_facing_up: A paper titled “Deep Learning Referral Suggestion and Tumour Discrimination using Explainable Artificial Intelligence applied to Multiparametric MRI (*in press*)” was accepted to <i>European Radiology</i>  (JCR 2021 IF=7.034).
