@@ -29,6 +29,6 @@ Hi, I am a Ph.D. candidate at <a href='https://mai-lab.net'>MAI-Lab.</a>, School
 
 but not limited to. \
 My expected graduation date is February, 2024. \
-For inquiries, please contact :mailbox: whatzupsup@yonsei.ac.kr \
-Link to my google scholar page is provided at the bottom of this page. 
+For inquiries, please contact :mailbox: <a href="mailto:{{whatzupsup@yonsei.ac.kr}}">whatzupsup@yonsei.ac.kr</a> \
+:link: Links to my Google Scholar and LinkedIn are provided at the bottom of this page. 
  
