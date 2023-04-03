@@ -6,3 +6,4 @@ related_posts: false
 ---
 
 :tada:  Our team (Team Samoyed) won the 1st place in an international challenge for <i>Cross-Modality Domain Adaptation for Medical Image Segmentation (<a href='https://crossmoda-challenge.ml/challenge2021/'>crossMoDA challenge</a>)</i>, which was held in conjunction with MICCAI 2021 at Strasbourg, France.
+:movie_camera: <a href='https://vimeo.com/620052580/'>Event Recording.</a> &  <a href='https://vimeo.com/612629294/'>Presentation.</a>

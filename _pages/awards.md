@@ -11,6 +11,7 @@ nav_order: 5
 - International challenge for *Unsupervised Cross-Modality Domain Adaptation for Medical Image Segmentation*, held in conjunction with MICCAI 2021 conference in Strasbourg, France. 
 - **<u>Official winner (1st rank)</u>** and **<u>Main contributor</u>** (Team 'Samoyed').
 - Sponsored by *NVIDIA* and *BANA (British Acoustic Neuroma Association)*.
+- :movie_camera: <a href='https://vimeo.com/620052580/'>Event Recording.</a> &  <a href='https://vimeo.com/612629294/'>Presentation.</a>
 
 :tada: **2021. 09.** Hackathon A.I.
 - Development of AI-based Image Diagnosis using Medical Big Data 2021, Korea Testing Laboratory (KTL).
