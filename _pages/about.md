@@ -6,7 +6,7 @@ subtitle: Ph.D. candidate at <a href='https://mai-lab.net'>Medical Artificial In
 
 profile:
   align: right
-  image: myprof_pic.jpeg
+  image: adobe_copy2.jpeg
   image_circular: false # crops the image to make it circular
   address: > 
     
